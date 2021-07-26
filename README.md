@@ -4,8 +4,10 @@ The purpose of the following repository is to create a web app to scrape the web
 
 ## Requirements
 Please make sure you have installed the following components to successfully run the web app:
+
 - [Python 3.7](https://www.python.org/downloads/) or greater
 - [MongoDB](https://www.mongodb.com/en-us/pricing)
+
 **Note:** Be sure to install any missing modules from ```app.py``` before running the required servers.
 
 ## How to scrape with the Mission To Mars web app
